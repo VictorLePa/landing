@@ -1,0 +1,12 @@
+.avatar {
+  width: 100px; 
+  height: 100px; 
+  border-radius: 50%; /* make it circular */
+  overflow: hidden; /* hide any parts of the image that overflow */
+}
+
+.avatar img {
+  width: 100%; /* make the image fill the container */
+  height: 100%; /* make the image fill the container */
+  object-fit: cover; /* scale and crop the image to fill the container */
+}

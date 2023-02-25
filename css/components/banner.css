@@ -1,0 +1,19 @@
+.banner {
+  background-image: linear-gradient(to bottom, #6fc5d6, #4b89da);
+  background-size: cover; /* make the background image cover the entire section */
+  background-position: center; /* center the background image */
+  padding: 100px 0; /* add some padding to the top and bottom */
+  text-align: center; /* center the content horizontally */
+  color: #fff; /* set the text color */
+}
+
+.banner h1 {
+  font-size: 48px;
+  margin-bottom: 20px; /* add some spacing between the heading and the subheading */
+}
+
+.banner h2 {
+  font-size: 24px;
+  font-weight: 300; /* make the subheading lighter */
+  margin-bottom: 50px; /* add some spacing between the subheading and the button */
+}
